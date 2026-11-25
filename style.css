@@ -1,0 +1,5 @@
+:root{color-scheme:light dark}
+body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:640px;margin:48px auto;padding:0 16px;line-height:1.6}
+h1{font-size:1.6rem}
+a{color:inherit}
+footer{margin-top:40px;font-size:.9rem;opacity:.7}
